@@ -370,9 +370,6 @@
   margin: 0;
 }
 
-.footer__list-item {
-}
-
 .footer__column-link {
   display: flex;
   flex-direction: row;
